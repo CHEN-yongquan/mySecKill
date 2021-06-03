@@ -11,9 +11,9 @@
 
   MySQL 5.7.10-Linux
 
-  Redis 6.2.3
+  Redis 6.2.3-Linux
 
-  RabbitMQ 3.7.15
+  RabbitMQ 3.7.15-Linux
 
   IDEA Ultimate 2019.2
 
